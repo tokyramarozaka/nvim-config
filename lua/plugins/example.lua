@@ -148,6 +148,7 @@ return {
         "markdown",
         "markdown_inline",
         "python",
+        "svelte",
         "query",
         "regex",
         "tsx",
